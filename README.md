@@ -1,2 +1,2 @@
 # CI_demo_Linder
-learning continous integration
+learning continuous integration
